@@ -1,0 +1,93 @@
+  /* Add your CSS styles here */
+  body {
+    font-family: Arial, sans-serif;
+    padding: 0;
+    font-size: 20px;
+    /* background-color:blanchedalmond; */
+    background-attachment: fixed;
+    background-image: url("https://t4.ftcdn.net/jpg/05/22/13/53/360_F_522135353_IF7neFpACQ3ReX45fhHRIaeS7LwWY34x.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(3px);
+    opacity: 85%;
+    
+}
+
+header {
+    color:#444;
+    text-align: center;
+    padding: 50px;
+    background-color:black;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4Ff1mzTUQsTuWv1-MbbBMb7o0eqEdxPkmA&usqp=CAU");
+   background-repeat: no-repeat; 
+    background-size: cover;
+    
+}
+
+/* header h1{
+    background-color: black;
+} */
+
+.header img{
+    float: top;
+    width: 50px;
+    height: 50px;
+}
+
+h1 {
+    font-size: 50px;
+}
+ h3{
+    font-size: 25px
+ }
+ h2{
+    font-size: 30px
+ }
+
+ .Aboutus {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+ }
+ 
+ 
+ 
+nav {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 20px;
+}
+
+section {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+section center p{
+    text-align: center;
+}
+
+.im {
+    width: 50%;
+    max-width: 500px;
+    display: block;
+    margin: 20px auto 0;
+}
+
+section{
+    background-color: gray;
+    border-radius:40px;
+}
+
+
+/* section p{
+    font-size: 20;
+} */
+
+/* Add more styles for your content, images, and other elements here */
